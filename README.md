@@ -72,20 +72,8 @@ python main.py
 Data is stored line-by-line in comma-separated format:
 
 ```csv
-1001,Arpita,5000.00
-1002,Shahriar,7500.50
+1001,Shahriar,7500.50
 ```
-
----
-
-## 📜 Project Details
-
-- **Submitted To**: Dr. Apurba Adhikari
-- **Submitted By**: Arpita Rani Das (ID: JSH2411034F)
-- **Date**: July 31, 2026
-
----
-
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
