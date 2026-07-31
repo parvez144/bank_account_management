@@ -1,0 +1,25 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# User database / temporary output files
+accounts.txt
+
